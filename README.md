@@ -1,4 +1,4 @@
-# Energy-Based Processes for Functional Data
+# Energy-Based Models for Functional Data using Path Measure Tilting
 
 This respository contains an implementation of an energy-based approach for
 learning a generative model for functional data. This approach is described in
