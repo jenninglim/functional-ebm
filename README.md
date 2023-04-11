@@ -2,7 +2,7 @@
 
 This respository contains an implementation of an energy-based approach for
 learning a generative model for functional data. This approach is described in
-our paper
+our [paper](https://arxiv.org/abs/2202.01929)
 
     Energy-Based Processes for Functional Data
     Jen Ning Lim, Sebastian Vollmer, Lorenz L Wolf, Andrew Duncan 
